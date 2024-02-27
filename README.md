@@ -6,4 +6,7 @@ git ignore is an important file to add because it avoids git storing garbage fil
 ## Purpose
 -create a reomote repositore on github
 -practice git workflow
+## Creator
 
+Melissa is a geochemist working on mercury in the Arctic. I hate peas.
+Oh yeah and I love broccoli.
